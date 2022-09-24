@@ -10,5 +10,5 @@ To develop a good understanding of data structure require three following things
 
 
 ## Giude to traverse the repository
-1. [Introduction](/Main/Readings/Introduction.md)
+1. [Introduction](/Main/Readings/Introduction.md) <br>
 &emsp;&emsp;* [What is Data?](/Main/Readings/Introduction.md#what-is-data)
