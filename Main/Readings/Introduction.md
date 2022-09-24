@@ -21,4 +21,4 @@ There are two types of data types: <br>
 * The primitive data types provided by many programming languages are: int, float, char, double, bool, etc.
 * The number of bits allocated for each primitve datat type deepnds on the programming languages, the compiler and the operating system. For the same primitive data type, different languages may use different sizes.
 * Depending on the size of the data type, the total available values (domain) will also change.
-* For example, `int` may take 2 bytes or 4 bytes. If it takes 2 bytes (16 bits), then total possible values are minus 32,768 to plus 32,767 (-2<sup>15</sup>)
+* For example, `int` may take 2 bytes or 4 bytes. If it takes 2 bytes (16 bits), then total possible values are minus 32,768 to plus 32,767 **(-2<sup>15</sup> to 2<sup>15</sup>-1)**. If it takes 4 bytes (32 bits), then the possible values are between minus 2,147,483,648 to plus 2,147,483,647 **(-2<sup>31</sup> to 2<sup>31</sup>)**. The same is the case with other data types.
