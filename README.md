@@ -7,3 +7,7 @@ To develop a good understanding of data structure require three following things
 1. You must learn how the information is arranged in the memory of the computer. 
 2. You must become familiar with the algorithms for manipulating the information contained in the data structure.
 3. You must understand the performance characteristics of the data structure so that when called upon to select a suitable data structure for a particular applications, you are able to make an appropriate decisions.
+
+
+## Giude to traverse the repository
+1. [Introduction](/Main/Readings/Introduction.md)
