@@ -15,3 +15,10 @@ This way it helps in reducing the coding efforts. <br>
 There are two types of data types: <br>
 * System-defined data types (Primitive Data Type)
 * User-defined Data Types
+
+### System-defined data types (Primitive Data Types)
+* Data types that are defined by system are called **primitive data types**. 
+* The primitive data types provided by many programming languages are: int, float, char, double, bool, etc.
+* The number of bits allocated for each primitve datat type deepnds on the programming languages, the compiler and the operating system. For the same primitive data type, different languages may use different sizes.
+* Depending on the size of the data type, the total available values (domain) will also change.
+* For example, `int` may take 2 bytes or 4 bytes. If it takes 2 bytes (16 bits), then total possible values are minus 32,768 to plus 32,767 (-2<sup>15</sup>)
