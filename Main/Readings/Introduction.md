@@ -38,3 +38,11 @@ struct typeOne {
  };
  ```
  * This gives more flexibility and comfort in dealing with computer memory.
+
+## Data Structures
+Once we get data in the variables, we need some mechanism for manipulating that data to solve problem. **Data Structure** is a particular way of storing and organizing data in computer so that it can be used efficiently. A data structure is a special format for organizing and storing data. <br>
+General data structures include arrays, linked list, files, stacks, queues, trees, graphs and so on.
+
+Depending on the organization of the elements, data structures are classified into two types:
+1) Linear data structures: Elements are accessed in a sequential order but it is not compulsory to store all elements sequentially. Examples: Linked Lists, Stacks and Queues.
+2) Non - linear data structures: Elements of this data structure are stored/accessed in a non-linear order. Example: Trees and Graphs.
