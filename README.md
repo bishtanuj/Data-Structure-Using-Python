@@ -9,7 +9,7 @@ To develop a good understanding of data structure require three following things
 3. You must understand the performance characteristics of the data structure so that when called upon to select a suitable data structure for a particular applications, you are able to make an appropriate decisions.
 
 
-## Giude to traverse the repository
+## Guide to traverse the repository
 1. [Introduction](/Main/Readings/Introduction.md) <br>
 &emsp;&emsp;▶️ [What is Data?](/Main/Readings/Introduction.md#what-is-data) <br>
 &emsp;&emsp;▶️ [What are variables?](/Main/Readings/Introduction.md#what-are-variables) <br>
