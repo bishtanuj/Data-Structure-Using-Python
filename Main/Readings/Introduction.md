@@ -46,3 +46,19 @@ General data structures include arrays, linked list, files, stacks, queues, tree
 Depending on the organization of the elements, data structures are classified into two types:
 1) **Linear data structures**: Elements are accessed in a sequential order but it is not compulsory to store all elements sequentially. Examples: Linked Lists, Stacks and Queues.
 2) **Non - linear data structures**: Elements of this data structure are stored/accessed in a non-linear order. Example: Trees and Graphs.
+
+## Abstract Data Types
+We all know that, by default, all primitive data types support basic operations such as addition and subtraction. The system provides the implementations for the them. For user defined data types we also need to define operations. The impelementation for these operations can be done when we want to actually use them. That means, in general, user define data types are defined along with their operations.
+
+To simplify the process of solving problems, we combine the data structures with their operations and we call this Abstract Data Types (ADTs). An ADT consists of two parts:
+1. Declaration of data 
+2. Declaration of operations
+
+Commonly used ADTs include: Linked Lists, Stacks, Queues, Priority Queues, Binary Trees, Dictionaries, Disjoint Sets (Union and Find), Hash Tables, Graphs and many others.
+
+While defining the ADTs do not worry about the implementation details. They come into the picture only when we want to use them. Different kinds of ADTs are suited to different kinds of appliactions, and some are highly specialized to specific tasks.
+
+## What is an Algorithm?
+An algorithm is the finite step-by-step instructions to solve a given problem.
+
+NOTE: We do not have to prove each step of the algorithm.
