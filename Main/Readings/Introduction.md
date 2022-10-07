@@ -59,6 +59,6 @@ Commonly used ADTs include: Linked Lists, Stacks, Queues, Priority Queues, Binar
 While defining the ADTs do not worry about the implementation details. They come into the picture only when we want to use them. Different kinds of ADTs are suited to different kinds of appliactions, and some are highly specialized to specific tasks.
 
 ## What is an Algorithm?
-An algorithm is the finite step-by-step instructions to solve a given problem.
+An algorithm is a sequence of clear and precise step-by-step instructions for solving a problem in a finite amount of time.
 
 NOTE: We do not have to prove each step of the algorithm.
