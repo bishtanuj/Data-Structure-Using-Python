@@ -62,3 +62,11 @@ While defining the ADTs do not worry about the implementation details. They come
 An algorithm is a sequence of clear and precise step-by-step instructions for solving a problem in a finite amount of time.
 
 NOTE: We do not have to prove each step of the algorithm.
+
+### Properties of an Algorithm
+- It should take zero or more input.
+- It should produce atleast one output.
+- It should terminate within finite time.
+- Every step in the algorithm should be deterministic (Unambiguous).
+- Every step in the algorithm should perform something (don't write unnecessary statements).
+- It should be programming independent.
