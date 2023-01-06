@@ -61,7 +61,7 @@ While defining the ADTs do not worry about the implementation details. They come
 ## What is an Algorithm?
 An algorithm is a sequence of clear and precise step-by-step instructions for solving a problem in a finite amount of time.
 
-NOTE: We do not have to prove each step of the algorithm.
+***NOTE: We do not have to prove each step of the algorithm.***
 
 ### Properties of an Algorithm
 - It should take zero or more input.
