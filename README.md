@@ -21,6 +21,7 @@ To develop a good understanding of data structure require three following things
 &emsp;&emsp;▶️ [What is an Algorithm?](/Main/Readings/Introduction.md#what-is-an-algorithm) <br>
 &emsp;&emsp;&emsp;&emsp;:point_right: [Properties of an Algorithm](/Main/Readings/Introduction.md#properties-of-an-algorithm)
 
+_Continued Soon..._
 
 # :pray: Support
 This repository needs a :star: from you. Don't forget to leave a :star:.
