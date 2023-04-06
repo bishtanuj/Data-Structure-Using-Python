@@ -1,3 +1,4 @@
+[![License](https://img.shields.io/github/license/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./LICENSE)
 # Data Structures and Algorithms using Python
 
 ## Overview
