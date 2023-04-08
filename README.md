@@ -1,5 +1,6 @@
 [![License](https://img.shields.io/github/license/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./LICENSE) &emsp;
-[![Issues](https://img.shields.io/github/issues/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./ISSUES)
+[![Issues](https://img.shields.io/github/issues/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./ISSUES) &emsp;
+<!-- [![License](https://img.shields.io/github/license/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./LICENSE) -->
 # Data Structures and Algorithms using Python
 
 ## Overview
