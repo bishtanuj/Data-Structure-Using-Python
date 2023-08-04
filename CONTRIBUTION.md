@@ -3,6 +3,6 @@ It's great to see you here :partying_face:
 
 Follow the contribution guildelines to contribute in this repository:
 ___
-- Take a look at exisiting [issues](https://github.com/bishtanuj/Data-Structures-Using-Python/issues) or [create a new issue](https://github.com/bishtanuj/Data-Structures-Using-Python/issues/new/choose)!
+- __*Take a look at exisiting [issues](https://github.com/bishtanuj/Data-Structures-Using-Python/issues) or [create a new issue](https://github.com/bishtanuj/Data-Structures-Using-Python/issues/new/choose)!*__
 - [Fork the repository](https://github.com/bishtanuj/Data-Structures-Using-Python/fork). Then, create a branch for any issue that you are working on. Finally, commit your work.
 ___
