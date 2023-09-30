@@ -4,7 +4,7 @@
 [![Stars](https://img.shields.io/github/stars/bishtanuj/Data-Structure-Using-Python?style=for-the-badge)](./STARS) &emsp;
 ![Contributions](https://img.shields.io/static/v1.svg?label=Contributions&message=Welcome&style=for-the-badge&color=green) 
 
-# Data Structures and Algorithms using Python
+# _Data Structures and Algorithms using Python_
 
 ## Overview
 This repository is aims to make you brush up the concepts of Data Structures and Algorithms and follows the programming in Python. Data Structures is the most important component of the Computer Science, as it deals with the arranging of data in a right and particular manner so that whenever required, you are able to get it properly and it also helps in using that data efficiently.
