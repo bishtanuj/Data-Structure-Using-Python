@@ -6,7 +6,7 @@
 
 # _Data Structures and Algorithms using Python_
 
-## Overview
+## _Overview_
 This repository is aims to make you brush up the concepts of Data Structures and Algorithms and follows the programming in Python. Data Structures is the most important component of the Computer Science, as it deals with the arranging of data in a right and particular manner so that whenever required, you are able to get it properly and it also helps in using that data efficiently.
 
 To develop a good understanding of data structure require three following things: <br>
