@@ -54,5 +54,5 @@ if __name__ == '__main__':
 
 '''
 OUTPUT:
-Elements of linked list: 12->13->14->15->None
+Elements of linked list: 12->13->14->15->16->None
 '''
