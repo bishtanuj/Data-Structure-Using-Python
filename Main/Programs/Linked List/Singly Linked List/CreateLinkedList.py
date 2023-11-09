@@ -50,3 +50,9 @@ if __name__ == '__main__':
   for i in items.display():
     print(i, end="->")
   print(None)
+
+
+```
+OUTPUT:
+Elements of linked list: 12->13->14->15->None
+```
