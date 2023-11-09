@@ -37,4 +37,16 @@ class LinkedList:
 if __name__ == '__main__':
   # create an object of class LinkedList
   items = LinkedList()
-  
+
+  # insert the following elements into the linked list
+  items.insertion(12)
+  items.insertion(13)
+  items.insertion(14)
+  items.insertion(15)
+  items.insertion(16)
+
+  # display the elements of linked list
+  print("Elements of linked list:", end=" ")
+  for i in items.display():
+    print(i, end="->")
+  print(None)
