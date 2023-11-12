@@ -60,3 +60,10 @@ if __name__ == '__main__':
 
   # print the sum of the elements of linked list
   print(f"Sum of the elements of linked list: {items.ComputeSum()}")
+
+
+'''
+OUTPUT:
+Elements of linked list: 12->13->14->None
+Sum of the elements of linked list: 39
+'''
