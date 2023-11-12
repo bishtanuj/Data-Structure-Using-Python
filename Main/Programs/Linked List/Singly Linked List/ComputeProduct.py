@@ -60,3 +60,10 @@ if __name__ == '__main__':
 
   # print the product of the elements of linked list
   print(f"Product of the linked list: {items.ComputeProduct()}")
+
+
+'''
+OUTPUT:
+Elements of linked list: 1->2->3->None
+Product of the linked list: 6
+'''
