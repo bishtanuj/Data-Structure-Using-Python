@@ -17,3 +17,9 @@ if __name__ == '__main__':
     BubbleSort(nums)
     print(f"Sorted Array: {nums}")
             
+
+'''
+OUTPUT:
+Enter the elements of array: 10 7 8 9 4 3 1 5 6
+Sorted Array: [1, 3, 4, 5, 6, 7, 8, 9, 10]
+'''
