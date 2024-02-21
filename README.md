@@ -25,7 +25,7 @@ To develop a good understanding of data structure require three following things
 &emsp;&emsp;▶️ [Data Structures](/Main/Readings/Introduction.md#data-structures) <br>
 &emsp;&emsp;▶️ [Abstract Data Types](/Main/Readings/Introduction.md#abstract-data-types) <br>
 &emsp;&emsp;▶️ [What is an Algorithm?](/Main/Readings/Introduction.md#what-is-an-algorithm) <br>
-&emsp;&emsp;&emsp;&emsp;:point_right: [Properties of an Algorithm](/Main/Readings/Introduction.md#properties-of-an-algorithm)
+&emsp;&emsp;&emsp;&emsp;👉 [Properties of an Algorithm](/Main/Readings/Introduction.md#properties-of-an-algorithm)
 
 _Continued Soon..._
 
