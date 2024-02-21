@@ -30,6 +30,6 @@ To develop a good understanding of data structure require three following things
 _Continued Soon..._
 
 # :pray: Support
-This repository needs a :star: from you. Don't forget to leave a :star:.
+***This repository needs a :star: from you. Don't forget to leave a :star:.***
 
 ---
