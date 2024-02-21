@@ -20,8 +20,8 @@ To develop a good understanding of data structure require three following things
 &emsp;&emsp;▶️ [What is Data?](/Main/Readings/Introduction.md#what-is-data) <br>
 &emsp;&emsp;▶️ [What are variables?](/Main/Readings/Introduction.md#what-are-variables) <br>
 &emsp;&emsp;▶️ [What are data types?](/Main/Readings/Introduction.md#what-are-data-types) <br>
-&emsp;&emsp;&emsp;&emsp;:point_right: [System Defined Data Types](/Main/Readings/Introduction.md#system-defined-data-types-primitive-data-types)
-&emsp;&emsp;&emsp;&emsp;:point_right: [User Defined Data Types](/Main/Readings/Introduction.md#user-defined-data-types) <br>
+&emsp;&emsp;&emsp;&emsp;👉 [System Defined Data Types](/Main/Readings/Introduction.md#system-defined-data-types-primitive-data-types)
+&emsp;&emsp;&emsp;&emsp;👉 [User Defined Data Types](/Main/Readings/Introduction.md#user-defined-data-types) <br>
 &emsp;&emsp;▶️ [Data Structures](/Main/Readings/Introduction.md#data-structures) <br>
 &emsp;&emsp;▶️ [Abstract Data Types](/Main/Readings/Introduction.md#abstract-data-types) <br>
 &emsp;&emsp;▶️ [What is an Algorithm?](/Main/Readings/Introduction.md#what-is-an-algorithm) <br>
