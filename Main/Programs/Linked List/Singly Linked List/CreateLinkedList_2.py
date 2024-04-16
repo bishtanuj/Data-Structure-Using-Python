@@ -59,3 +59,7 @@ if __name__ == '__main__':
     # call the display function to print the linked list
     linkedlist.display()
 
+"""
+OUTPUT:
+Linked List: 45->42->43->48->54->58->75->87->92->98->100->None
+"""
