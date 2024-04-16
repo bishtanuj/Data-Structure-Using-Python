@@ -1,7 +1,5 @@
 # Program to create a linked list
 
-# Program to create a linked list
-
 # class to create a node
 class Node:
     def __init__(self, data: int):
