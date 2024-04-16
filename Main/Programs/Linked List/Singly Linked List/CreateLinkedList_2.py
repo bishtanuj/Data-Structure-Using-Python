@@ -42,7 +42,8 @@ class LinkedList:
 if __name__ == '__main__':
     #  create the object of the LinkedList class
     linkedlist = LinkedList()
-    
+
+    # insert the following elements in the linkedlist
     linkedlist.insertion(45)
     linkedlist.insertion(42)
     linkedlist.insertion(43)
