@@ -55,6 +55,7 @@ if __name__ == '__main__':
     linkedlist.insertion(92)
     linkedlist.insertion(98)
     linkedlist.insertion(100)
-    
+
+    # call the display function to print the linked list
     linkedlist.display()
 
