@@ -31,3 +31,12 @@
 1. **Slower access time**: Accessing elements by index is slower than in arrays.
 2. **Extra memory overhead**: Due to the need for pointers.
 3. **Sequential traversal**: To find an element, you must traverse the list sequentially.
+
+### Applications of the linked list
+- Linked lists are used to implement various data structures, including:
+    - **Stacks**: Using singly linked lists.
+    - **Queues**: Using singly or doubly linked lists.
+    - **Graphs**: Representing adjacency lists.
+    - **Hash tables**: Handling collisons.
+    - **Dynamic memory allocation**: Efficiently managing memory.
+    - **Polynomial representation**: In algebric expressions.
