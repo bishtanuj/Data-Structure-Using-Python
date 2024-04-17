@@ -5,3 +5,11 @@
   ### Representation of the Linked List
   _The representation of a linked list depicts that each node consists of two fields. The first field consists of data, and the second field consists of pointer that points to another node._
 
+### Properties of the linked list
+1. **Dynamic Size**:
+    - Unlike fixed-size arrays, linked list can expand or contract as needed during program execution.
+    - The dynamic sizing makes linked lists suitable for scenarios where the number of elements can change over time.
+2. **Effective Element Insertion and Deletion**:
+    - Linked lsit allow efficient insertion and deletion of elements.
+    - By updating pointers, you can insert or delete elements from anywhere in the list.
+    - This flexibility is especially usefulwhen dealing with dynamic data.
