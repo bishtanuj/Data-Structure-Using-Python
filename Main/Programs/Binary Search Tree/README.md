@@ -21,3 +21,6 @@ _The representation of a binary search tree depicts that each node consists of t
     - Insertion and deletion of nodes in a BST maintain the sorted order.
     - When inserting a new value, we follow the tree structureto find the appropriate position.
     - When deleting a node, we rearrange the tree while preserving the BST properties.
+5. **Inorder Traversal**:
+    - Inorder traversal of a BST visits the nodes in ascending order.
+    - Starting from the leftmost node, we visit each node's left subtree, then the node itself, and finally its right subtree.
