@@ -40,3 +40,5 @@
     - **Hash tables**: Handling collisons.
     - **Dynamic memory allocation**: Efficiently managing memory.
     - **Polynomial representation**: In algebric expressions.
+ 
+---
