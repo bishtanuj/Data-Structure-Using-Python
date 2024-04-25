@@ -1,3 +1,3 @@
 # _Sorting_
 
-It is a way of arranging the elements in a specific order.
+It is a way of arranging the elements of a data structure in a specific order.
