@@ -24,3 +24,7 @@ Here are some key points about queues:
         - **Linked Lists**: Dynamic queues using singly or doubly linked lists.
         - **Cirular Buffers**: Efficient for bounded-size queues.
         - **Other Variants**: Dequeues (double-ended queues), priority queues, etc.
+     
+4. **Examples**:
+    - Suppose you're building a print job scheduler. Each print job gets added to the queue, and the printer processes them in order.
+    - In a messaging app, messages arrive in a queue and are displayed to users in the order they were received.
