@@ -19,3 +19,7 @@ Here are some key points about queues:
     - **Priority Queues**: Used for event processing, where events have different priorities.
   
 3. **Implementations**:
+    - Queues can be implemented using various data structures:
+        - **Arrays**: FIxed-size arrays with pointers to the front and rear.
+        - **Linked Lists**: Dynamic queues using singly or doubly linked lists.
+        - **Cirular Buffers**: Efficient for bounded-size queues. 
