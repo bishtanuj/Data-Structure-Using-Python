@@ -11,3 +11,9 @@ Here are some key points about queues:
     - **Peek**: Returns the element at the front of the queue without removing it.
     - **isEmpty**: Checks if the queue is empty.
     - **isFull**: Checks if the queue is full (though some implementations don't have a fixed size).
+  
+2. **Applications of Queues**:
+    - **Task Scheduling in Operating Systems**: Queues help manage processes waiting to execute.
+    - **Data Transfer in Network Communication**: Queues handle data packets waiting for transmission.
+    - **Simulation of Real-World Systems**: For example, modeling waiting lines at a bank or supermarket.
+    - **Priority Queues**: Used for event processing, where events have different priorities.
