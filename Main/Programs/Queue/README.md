@@ -17,3 +17,5 @@ Here are some key points about queues:
     - **Data Transfer in Network Communication**: Queues handle data packets waiting for transmission.
     - **Simulation of Real-World Systems**: For example, modeling waiting lines at a bank or supermarket.
     - **Priority Queues**: Used for event processing, where events have different priorities.
+  
+3. **Implementations**:
