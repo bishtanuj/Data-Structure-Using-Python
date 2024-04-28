@@ -22,4 +22,5 @@ Here are some key points about queues:
     - Queues can be implemented using various data structures:
         - **Arrays**: FIxed-size arrays with pointers to the front and rear.
         - **Linked Lists**: Dynamic queues using singly or doubly linked lists.
-        - **Cirular Buffers**: Efficient for bounded-size queues. 
+        - **Cirular Buffers**: Efficient for bounded-size queues.
+        - **Other Variants**: Dequeues (double-ended queues), priority queues, etc.
