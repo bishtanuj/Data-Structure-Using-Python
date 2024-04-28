@@ -1,3 +1,3 @@
 # Queue
 
-_**Queue** is a linear data structure, that follows the concept of **First In First Out (FIFO)**._
+_**Queue** is a linear data structure, that follows **First In First Out (FIFO)** principle._
