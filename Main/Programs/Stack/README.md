@@ -11,3 +11,10 @@ Here are some key points about stacks:
     - **Peek**: Returns the top element without removing it.
     - **IsEmpty**: Checks if the stack is empty.
     - **IsFull**: Checks if the stack is full (in case of fixed-size arrays).
+  
+2. **Applications of Stack:**
+    - **Recursion**: Stacks are essential for managing function calls during recursion.
+    - **Expression Evaluation and Parsing**: Stacks help evaluate arithmetic expressions and parse syntax.
+    - **Depth-First Search (DFS)**: Stacks are used to explore graphs in a depth-first manner.
+    - **Undo/Redo Operations**: Stacks can store previous states for undo/redo functionallity.
+    - **Browser History**: Browsers use stacks to manage page navigation history.
