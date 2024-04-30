@@ -18,3 +18,5 @@ Here are some key points about stacks:
     - **Depth-First Search (DFS)**: Stacks are used to explore graphs in a depth-first manner.
     - **Undo/Redo Operations**: Stacks can store previous states for undo/redo functionallity.
     - **Browser History**: Browsers use stacks to manage page navigation history.
+  
+3. **Implementation of Stacks:**
