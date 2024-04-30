@@ -20,3 +20,5 @@ Here are some key points about stacks:
     - **Browser History**: Browsers use stacks to manage page navigation history.
   
 3. **Implementation of Stacks:**
+    - You can implement a stack using various data structures:
+        - **Arrays**: Fixed-size arrays work well stacks.
