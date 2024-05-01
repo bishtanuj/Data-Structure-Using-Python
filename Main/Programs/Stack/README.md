@@ -22,3 +22,4 @@ Here are some key points about stacks:
 3. **Implementation of Stacks:**
     - You can implement a stack using various data structures:
         - **Arrays**: Fixed-size arrays work well stacks.
+        - **Linked Lists**: Dynamic implementation with no fixed size.
