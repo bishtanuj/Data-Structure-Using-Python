@@ -23,3 +23,4 @@ Here are some key points about stacks:
     - You can implement a stack using various data structures:
         - **Arrays**: Fixed-size arrays work well stacks.
         - **Linked Lists**: Dynamic implementation with no fixed size.
+        - **Other Languages**: Stacks are available in C++, Java, Python and more.
