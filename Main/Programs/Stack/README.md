@@ -25,4 +25,4 @@ Here are some key points about stacks:
         - **Linked Lists**: Dynamic implementation with no fixed size.
         - **Other Languages**: Stacks are available in C++, Java, Python and more.
      
-_Remember, stacks are like those neatly piled plates - orderly and efficient!_
+_Remember, stacks are like those neatly piled plates - orderly and efficient!_ ::smile::
