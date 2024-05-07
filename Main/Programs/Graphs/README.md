@@ -4,3 +4,4 @@ _A **Graph** is a non-linear data structure that consists of **vertices** (also 
 
 Key components of Graph data structures:
 * **Vertices (Nodes)**: These are the fundamental units of the graph. Vertices can be labeled or unlabeled and represent entities in the system.
+* **Edges**: Edges connect two nodes in the graph. They can be ordered pairs (for directed graphs) or unordered pairs (for unidirected graphs). Edges can be labeled or unlabeled.
