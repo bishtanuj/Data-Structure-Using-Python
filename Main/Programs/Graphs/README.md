@@ -19,3 +19,10 @@ _Graph data structures find applications in various domains:_
 3. **Transportation Networks**: Represent connections between places (roads, airports) in transportation systems.
 4. **Sports Data Science**: Analyze team dynamics and player interactionsusing graph structures.
 5. **Neural Networks**: Veritces represent neurons, and edges represent synapses.
+
+### Graph Algorithms
+_Graph algorithms are methods used to manipulate and analyze graphs. Some common problems include:_
+- **Breadth-First Search (BFS)**: Explore nodes level by level.
+- **Depth-First Search (DFS)**: Explore as deeply as possible before backtracking.
+- **Cycles Detection**: Identify cycles in the graph.
+- **Shortest Path**: Find the shortest path between two nodes. 
