@@ -31,4 +31,4 @@ _Graph algorithms are methods used to manipulate and analyze graphs. Some common
 - **Connectivity**: Determine if the graph is connected.
 - **Maximum Flow**: Find the maximum flow in a network.
 
-_Graphs are powerful tools for representing complex relationships, and their applications extend across various fields. Whether analyzing social networks, modeling computer networks, or understanding neural connections, graphs play a crucial role! :star2:_
+> _Graphs are powerful tools for representing complex relationships, and their applications extend across various fields. Whether analyzing social networks, modeling computer networks, or understanding neural connections, graphs play a crucial role! :star2:_
