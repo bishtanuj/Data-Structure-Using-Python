@@ -16,4 +16,6 @@ Key components of Graph data structures:
 _Graph data structures find applications in various domains:_
 1. **Social Networks**: Graphs represent connections between users (vertices) on social media platforms.
 2. **Computer Networks**: Graphs model the topology of networks, such as connections between routers and switches.
-3. **Transportation Networks**: Represent connections between places (roads, airports) in transportation systems. 
+3. **Transportation Networks**: Represent connections between places (roads, airports) in transportation systems.
+4. **Sports Data Science**: Analyze team dynamics and player interactionsusing graph structures.
+5. **Neural Networks**: Veritces represent neurons, and edges represent synapses.
