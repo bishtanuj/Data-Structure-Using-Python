@@ -11,3 +11,6 @@ Here are the key steps of the BFS algorithm:
     - Mark the starting node as **visited**.
   
 2. **Exploration**:
+    - While the queue is not empty:
+        - Dequeue a node from the queue (i.e., remove it from the front of the queue).
+        - Visit the dequeued node (e.g., print its value or perform any other desired operation).
