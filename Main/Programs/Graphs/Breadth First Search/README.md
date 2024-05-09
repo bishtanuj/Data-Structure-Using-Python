@@ -16,3 +16,6 @@ Here are the key steps of the BFS algorithm:
         - Visit the dequeued node (e.g., print its value or perform any other desired operation).
         - For each unvisited neighbor of the dequeued node:
             - Enqueue the neighbor into the queue.
+            - Mark the neighbor as visited.
+         
+3. **Termination**:
