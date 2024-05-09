@@ -9,3 +9,5 @@ Here are the key steps of the BFS algorithm:
 1. **Initialization**:
     - Enqueue the starting node into a queue (a data structure that follows the **first-in, first-out** principle).
     - Mark the starting node as **visited**.
+  
+2. **Exploration**:
