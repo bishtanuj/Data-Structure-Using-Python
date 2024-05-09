@@ -19,3 +19,6 @@ Here are the key steps of the BFS algorithm:
             - Mark the neighbor as visited.
          
 3. **Termination**:
+    - Repeat step 2 until the queue is empty.
+  
+This algorithm ensures that all nodes in the graph (or tree) are visited in a breadth-first manner, starting from the specified source node.
