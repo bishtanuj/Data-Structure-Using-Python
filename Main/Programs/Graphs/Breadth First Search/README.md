@@ -32,3 +32,7 @@ _Let's understand the working of BFS with a simple example:_
     - Visit the dequeued node (print its value).
     - Enqueue its unvisited neighbors (e.g., nodes 1 and 2) into the queue and mark them as visited.
 4. Repeat the process until the queue becomes empty.
+
+### Application of BFS
+BFS is commonly used in various scenarios:
+- **Pathfinding**: Finding the shortest path between two nodes.
