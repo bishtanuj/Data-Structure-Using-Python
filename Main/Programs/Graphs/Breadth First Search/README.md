@@ -34,5 +34,5 @@ _Let's understand the working of BFS with a simple example:_
 4. Repeat the process until the queue becomes empty.
 
 ### Application of BFS
-BFS is commonly used in various scenarios:
+_BFS is commonly used in various scenarios:_
 - **Pathfinding**: Finding the shortest path between two nodes.
