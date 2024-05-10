@@ -40,3 +40,5 @@ _BFS is commonly used in various scenarios:_
 - **Web Crawling**: Crawling web pages in a systematic manner.
 - **Social Network Analysis**: Analyzing relationships between users.
 - **Puzzle Solving**: Solving puzzles like the "15-puzzle" or "8-puzzle".
+
+> _Remember that BFS is particularly useful when you want to explore a graph layer by layer, ensuring that you cover all reachable nodes from the starting point before moving deeper into the strucutre._
