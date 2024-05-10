@@ -28,4 +28,7 @@ Let's understand the working of BFS with a simple example:
 1. Initially, the queue and visited arrays are empty.
 2. We push the root node (e.g., node 0) into the queue and mark it as visited.
 3. While the queue is not empty:
-    - Dequeue a node (e.g., node 0)
+    - Dequeue a node (e.g., node 0).
+    - Visit the dequeued node (print its value).
+    - Enqueue its unvisited neighbors (e.g., nodes 1 and 2) into the queue and mark them as visited.
+4. Repeat the process until the queue becomes empty.
