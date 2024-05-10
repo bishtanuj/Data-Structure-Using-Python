@@ -36,3 +36,7 @@ _Let's understand the working of BFS with a simple example:_
 ### Application of BFS
 _BFS is commonly used in various scenarios:_
 - **Pathfinding**: Finding the shortest path between two nodes.
+- **Connected Components**: Identifying connected components in a graph.
+- **Web Crawling**: Crawling web pages in a systematic manner.
+- **Social Network Analysis**: Analyzing relationships between users.
+- **Puzzle Solving**: Solving puzzles like the "15-puzzle" or "8-puzzle".
