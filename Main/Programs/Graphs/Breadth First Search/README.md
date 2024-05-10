@@ -24,7 +24,7 @@ Here are the key steps of the BFS algorithm:
 > _This algorithm ensures that all nodes in the graph (or tree) are visited in a breadth-first manner, starting from the specified source node._
 
 ### Illustration
-Let's understand the working of BFS with a simple example:
+_Let's understand the working of BFS with a simple example:_
 1. Initially, the queue and visited arrays are empty.
 2. We push the root node (e.g., node 0) into the queue and mark it as visited.
 3. While the queue is not empty:
