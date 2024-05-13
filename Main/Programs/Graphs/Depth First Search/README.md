@@ -32,6 +32,7 @@ _Let's understand the working of DFS with a simple example:_
 4. Repeat the process until the stack become empty.
 
 ### Application of DFS
+_DFS is commonly used in various secenarios:_
 - **Pathfinding**: Finding paths between nodes.
 - **Connected Components**: Identifying connected components in a graph.
 - **Maze Solving**: Solving a maze using DFS.
