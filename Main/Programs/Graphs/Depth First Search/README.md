@@ -8,3 +8,10 @@ Here are the key steps of the DFS algorithm:
     - Start at the root node (or any chosen sstarting point).
     - Maintaina **stack** (or use recursion) to keep track of visited nodes.
     - Mark the starting node as **visited**.
+  
+2. **Exploration**:
+    - While the stack is not empty:
+        - Pop a node from the stack.
+        - Visit the popped node (e.g., print its value or perform any other desired operation).
+        - Push it unvisited neighbors onto the stack.
+        - Mark the neighbors as visited.
