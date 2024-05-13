@@ -33,3 +33,7 @@ _Let's understand the working of DFS with a simple example:_
 
 ### Application of DFS
 - **Pathfinding**: Finding paths between nodes.
+- **Connected Components**: Identifying connected components in a graph.
+- **Maze Solving**: Solving a maze using DFS.
+- **Topological Sorting**: Ordering nodes based on dependencies.
+- **Backtracking Algorithms**: Many backtracking problems use DFS.
