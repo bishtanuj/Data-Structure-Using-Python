@@ -15,3 +15,6 @@ Here are the key steps of the DFS algorithm:
         - Visit the popped node (e.g., print its value or perform any other desired operation).
         - Push it unvisited neighbors onto the stack.
         - Mark the neighbors as visited.
+     
+3. **Termination**:
+    - Repeat step 2 until the stack becomes empty.
