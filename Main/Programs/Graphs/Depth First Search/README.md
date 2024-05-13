@@ -30,3 +30,6 @@ _Let's understand the working of DFS with a simple example:_
     - Visit the popped node (print its value).
     - Push its unvisited neighbors (e.g., nodes 1, 2 and 3) into the stack and mark them as visited.
 4. Repeat the process until the stack become empty.
+
+### Application of DFS
+- **Pathfinding**: Finding paths between nodes.
