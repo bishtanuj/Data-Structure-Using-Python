@@ -20,3 +20,7 @@ Here are the key steps of the DFS algorithm:
     - Repeat step 2 until the stack becomes empty.
   
 > _DFS explores as deeply as possible along each branch before backtracking to explore other branches. It ensures that all reachable nodes are visited._
+
+### Illustration
+_Let's understand the working of DFS with a simple example:_
+1. Initially, the stack and visited arrays are empty.
