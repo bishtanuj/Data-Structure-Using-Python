@@ -24,3 +24,9 @@ Here are the key steps of the DFS algorithm:
 ### Illustration
 _Let's understand the working of DFS with a simple example:_
 1. Initially, the stack and visited arrays are empty.
+2. We push the root node (e.g., node 0) into the stack and mark it as visited.
+3. While the stack is not empty:
+    - Pop a node (e.g., node 0).
+    - Visit the popped node (print its value).
+    - Push its unvisited neighbors (e.g., nodes 1, 2 and 3) into the stack and mark them as visited.
+4. Repeat the process until the stack become empty.
