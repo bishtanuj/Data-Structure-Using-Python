@@ -4,7 +4,7 @@ _**Breadth First Search (BFS)** is an algorithm used to explore a **tree** or **
 
 _In other words, BFS visits nodes layer by layer, ensuring that all nodes at a particular level are processed before moving deeper into the structure._
 
-### How does the BFS Algorithm Work?
+### How does the BFS algorithm work?
 Here are the key steps of the BFS algorithm:
 1. **Initialization**:
     - Enqueue the starting node into a queue (a data structure that follows the **first-in, first-out** principle).
